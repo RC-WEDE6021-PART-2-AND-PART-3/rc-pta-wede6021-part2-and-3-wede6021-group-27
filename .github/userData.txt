@@ -1,0 +1,6 @@
+John Doe,john@gmail.com,12345
+Mary Jane,mary@gmail.com,12345
+Peter Smith,peter@gmail.com,12345
+Lisa Brown,lisa@gmail.com,12345
+James Wilson,james@gmail.com,12345
+Admin User,admin@gmail.com,12345
